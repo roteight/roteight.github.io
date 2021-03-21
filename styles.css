@@ -1,0 +1,56 @@
+body{
+background-color: lightblue;
+font-family: "Courier New", monospace;
+}
+
+.title{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  background-color: #a1ffde ;
+  text-align: center;
+ 
+}
+.box{
+ margin: auto;
+  width: 38%;
+  padding: 10px;
+  text-align: center;
+  background-color: #3dcc57;
+}
+  .ul{
+  margin: auto;
+  width: 38%;
+  padding: 10px;
+  text-align: left;
+  background-color: #71c981;
+  }
+.ol{
+margin: auto;
+  width: 70%;
+  padding: 10px;
+  text-align: left;
+  background-color: #71c981;
+}
+.intro{
+  margin: auto;
+  width: 60%;
+  border: 0px solid ;
+  padding: 10px;
+  background-color: #bdffe8;
+  text-align: center;
+
+}
+.list{
+   margin: auto;
+  width: 60%;
+  padding: 10px;
+  background-color:#79d98b ;
+  text-align: center;
+
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin: auto;
+}
